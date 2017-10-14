@@ -1,0 +1,5 @@
+keep-alive:
+  maxConnPerRoute: 10
+  maxConnTotal: 10
+#  evictExpiredConnections: true
+#  secondsToEvictIdleConnections: 60
